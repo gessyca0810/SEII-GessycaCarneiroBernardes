@@ -1,0 +1,38 @@
+Paradigma de Programação
+
+    Paradigma de Programação é um estilo de programação que define a abordagem usada para resolver problemas e estruturar código. Os dois paradigmas principais são:
+
+    Programação Procedural: Baseia-se na ideia de procedimentos ou funções. O foco é em como os dados são manipulados através de uma sequência de operações ou funções. O código é escrito como uma sequência de comandos que são executados em uma ordem específica. Exemplos incluem C e Pascal.
+
+    Programação Orientada a Objetos (POO): Foca em objetos e suas interações. Em vez de pensar em funções ou procedimentos, a POO organiza o código em torno de "objetos", que são instâncias de "classes". Esses objetos encapsulam dados e comportamentos. A POO ajuda a tornar o código mais modular, reutilizável e mais fácil de manter. Exemplos incluem Java, C++ e Python.
+
+Classe e Objeto
+
+    Classe: É uma estrutura que define um tipo de dado e os comportamentos que ele pode ter. Pode ser vista como um "molde" ou "plano" para criar objetos. Uma classe define propriedades (atributos) e métodos (funções) que os objetos dessa classe terão.
+
+    Objeto: É uma instância concreta de uma classe. Cada objeto pode ter valores distintos para seus atributos, mas compartilha a mesma estrutura e comportamentos definidos pela classe.
+
+Encapsulamento
+
+    Encapsulamento refere-se à prática de esconder os detalhes internos do funcionamento de um objeto e expor apenas o necessário. Isso é feito através de modificadores de acesso (como public, private, protected). O encapsulamento ajuda a proteger os dados internos e a reduzir a complexidade, facilitando a manutenção e evolução do código.
+
+Abstração
+
+    Abstração é o processo de simplificar sistemas complexos ao focar apenas nos aspectos essenciais e ignorar os detalhes desnecessários. Em POO, abstração é implementada através de classes e interfaces. Uma classe define um modelo abstrato para um conjunto de objetos, enquanto a implementação específica pode variar.
+
+Herança
+
+    Herança é um mecanismo que permite a criação de novas classes com base em classes existentes. A nova classe (subclasse) herda atributos e métodos da classe existente (superclasse), permitindo a reutilização de código e a extensão de funcionalidades. A herança facilita a criação de uma hierarquia de classes e promove a reutilização e organização do código.
+
+Polimorfismo
+
+    Polimorfismo permite que diferentes classes possam ser tratadas através de uma interface comum, geralmente através de herança ou interfaces. Ele permite que métodos com o mesmo nome se comportem de maneira diferente dependendo do tipo de objeto que os está chamando. Isso é útil para escrever código mais flexível e extensível.
+
+Como a POO Ajuda na Construção de Melhores Soluções e Software
+
+    Modularidade: A POO permite a divisão do código em módulos (classes e objetos) que são mais fáceis de entender e gerenciar.
+    Reutilização de Código: A herança e o encapsulamento promovem a reutilização de código existente, reduzindo redundâncias e facilitando a manutenção.
+    Flexibilidade e Extensibilidade: O polimorfismo e a abstração ajudam a criar sistemas que podem ser facilmente extendidos e modificados sem afetar outras partes do código.
+    Facilidade de Manutenção: O encapsulamento e a modularidade tornam o código mais fácil de manter e corrigir, pois mudanças em uma parte do sistema têm menos impacto em outras partes.
+
+A POO, ao organizar o código em torno de objetos e suas interações, promove uma abordagem mais natural e intuitiva para modelar problemas e soluções complexas, facilitando o desenvolvimento e a manutenção de software robusto e escalável.
