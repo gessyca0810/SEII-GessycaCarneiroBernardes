@@ -1,0 +1,7 @@
+1)  TCP: O tamanho máximo de um segmento é geralmente até 1460 bytes (considerando MSS). Pode ser fragmentado em vários segmentos.
+    UDP: O limite é 65.535 bytes, mas na prática, datagramas maiores que 1.500 bytes podem ser fragmentados.
+
+2)Arquivos grandes são divididos em partes menores e transmitidos em pacotes. Podem ser enviados via protocolos como FTP ou HTTP.
+
+3)  TCP: Confiável, com retransmissão, controle de fluxo e conexão estabelecida antes da transmissão.
+    UDP: Não confiável, sem conexão, mais rápido e com menor latência, mas sem garantias de entrega ou ordem.
