@@ -1,0 +1,15 @@
+Design Patterns são soluções reutilizáveis para problemas comuns no desenvolvimento de software, especialmente na Programação Orientada a Objetos (POO). Eles ajudam a estruturar o código para melhorar sua manutenção e flexibilidade. Durante a refatoração de código, padrões de projeto são aplicados para simplificar e melhorar a estrutura do código sem alterar seu comportamento.
+
+A UML (Unified Modeling Language) é uma linguagem visual usada para documentar sistemas de software, auxiliando na representação dos padrões de projeto.
+
+Os três grupos principais de Design Patterns são:
+
+Criacionais: Focados na criação de objetos.
+Estruturais: Tratam da composição de classes e objetos.
+Comportamentais: Lidam com a comunicação entre objetos.
+Os 8 padrões abordados incluem Singleton, Factory Method, Abstract Factory, Builder, Prototype, Adapter, Decorator e Strategy.
+
+Nos exemplos dos vídeos:
+
+Vídeo 5: O padrão Strategy é usado para flexibilizar regras de negócio ao encapsular algoritmos diferentes.
+Vídeo 6: Combinação de Factory Method e Injeção de Dependência para criar um código configurável e fácil de testar.
